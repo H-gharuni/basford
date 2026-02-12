@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import EventsSection from './components/EventsSection';
 import FacilitiesSection from './components/FacilitiesSection';
 import Footer from './components/Footer';
-//import ChatWidget from './components/ChatWidget';
+
 
 const App: React.FC = () => {
   return (
@@ -32,7 +32,7 @@ const App: React.FC = () => {
       </main>
 
       <Footer />
-      /*<ChatWidget />*/
+
     </div>
   );
 };
